@@ -40,7 +40,7 @@
 ### Step 2: Clone and Setup Backend
 ```bash
 # Clone the repository
-git clone <https://github.com/Harsha-Reddy21/Blog-Writer-Local-LLM-.git>
+git clone https://github.com/Harsha-Reddy21/Blog-Writer-Local-LLM-.git
 cd Blog-Writer-Local-LLM
 
 # Setup backend
